@@ -18,6 +18,8 @@ import android.widget.TextView;
 
 import java.util.List;
 
+// feedback, please!
+
 public class CrimeListFragment
         extends Fragment
 {
