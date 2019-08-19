@@ -6,6 +6,8 @@ import android.support.v4.app.Fragment;
 
 import java.util.UUID;
 
+// feedback, please!
+
 public class CrimeActivity extends SingleFragmentActivity
 {
     private static final String EXTRA_CRIME_ID = "com.bignerdranch.android.criminalintent.crime_id";
